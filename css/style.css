@@ -1506,12 +1506,12 @@ body {
 .auth-card {
   width: 100%;
   max-width: 420px;
-  background: rgba(8, 12, 28, 0.35);
+  background: rgba(8, 12, 28, 0.88);
   border: 1px solid rgba(99,130,246,0.35);
   border-radius: 24px;
   padding: 40px;
-  backdrop-filter: blur(18px);
-  box-shadow: 0 24px 80px rgba(0,0,0,0.3), 0 0 0 1px rgba(99,130,246,0.12), inset 0 1px 0 rgba(255,255,255,0.08);
+  backdrop-filter: blur(24px);
+  box-shadow: 0 24px 80px rgba(0,0,0,0.6), 0 0 0 1px rgba(99,130,246,0.15), inset 0 1px 0 rgba(255,255,255,0.08);
   position: relative;
   z-index: 1;
   animation: authCardIn 0.45s cubic-bezier(0.34,1.56,0.64,1);
